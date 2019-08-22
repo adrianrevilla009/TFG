@@ -1,0 +1,391 @@
+0000.001 (0) Opened log file at time: Tue, 09 Jul 2019 16:25:27 +0000 on http://localhost/MiClassicPress
+0000.056 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.15 WP: 4.9.10 PHP: 7.2.18 (apache2handler, Windows NT DESKTOP-VPU5P0K 10.0 build 17134 (Windows 10) AMD64) MySQL: 5.7.26 WPLANG: es_ES Server: Apache/2.4.39 (Win64) PHP/7.2.18 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 23.1M | 2M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.058 (0) Free space on disk containing Updraft's temporary directory: 786201 MB
+0000.065 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.069 (0) Semaphore (fd, cp_options) being initialised
+0000.072 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.087 (0) Set semaphore last lock (fd) time to 2019-07-09 16:25:27
+0000.088 (0) Semaphore lock (fd) complete
+0000.092 (0) Backup run: resumption=0, nonce=98e442528c7c, file_nonce=98e442528c7c begun at=1562689527 (0s ago), job type=backup
+0000.094 (0) Scheduling a resumption (1) after 300 seconds (1562689827) in case this run gets aborted
+0000.116 (0) Checking if we have a zip executable available
+0000.118 (0) Creation of backups of directories: beginning
+0000.125 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0003.220 (0) Total entities for the zip file: 819 directories, 5162 files (0 skipped as non-modified), 77.1 MB
+0003.225 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0004.857 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 100 files added (on-disk size: 137.2 KB)
+0005.354 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.5 MB, 129 (130) files added so far); re-opening (prior size: 137.2 KB)
+0007.894 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 200 files added (on-disk size: 314.9 KB)
+0008.447 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 94 (224) files added so far); re-opening (prior size: 314.9 KB)
+0011.222 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 300 files added (on-disk size: 580.9 KB)
+0011.354 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 82 (306) files added so far); re-opening (prior size: 580.9 KB)
+0013.421 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 400 files added (on-disk size: 866.7 KB)
+0014.388 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 180 (486) files added so far); re-opening (prior size: 866.7 KB)
+0014.745 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 500 files added (on-disk size: 1158.4 KB)
+0016.812 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 600 files added (on-disk size: 1158.4 KB)
+0017.350 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 127 (613) files added so far); re-opening (prior size: 1158.4 KB)
+0020.387 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 41 (654) files added so far); re-opening (prior size: 1372 KB)
+0022.951 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 700 files added (on-disk size: 1530.5 KB)
+0023.384 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 58 (712) files added so far); re-opening (prior size: 1530.5 KB)
+0026.426 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 66 (778) files added so far); re-opening (prior size: 1657.9 KB)
+0027.946 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 800 files added (on-disk size: 1774.5 KB)
+0029.415 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 50 (828) files added so far); re-opening (prior size: 1774.5 KB)
+0031.628 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 900 files added (on-disk size: 1827.1 KB)
+0032.372 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2 MB, 96 (924) files added so far); re-opening (prior size: 1827.1 KB)
+0035.379 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 69 (993) files added so far); re-opening (prior size: 2209.2 KB)
+0035.611 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 1000 files added (on-disk size: 2264.5 KB)
+0037.841 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 1100 files added (on-disk size: 2264.5 KB)
+0038.354 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 114 (1107) files added so far); re-opening (prior size: 2264.5 KB)
+0041.350 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 36 (1143) files added so far); re-opening (prior size: 2563.2 KB)
+0043.939 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 1200 files added (on-disk size: 2612 KB)
+0044.369 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.4 MB, 72 (1215) files added so far); re-opening (prior size: 2612 KB)
+0047.411 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 58 (1273) files added so far); re-opening (prior size: 2761.9 KB)
+0048.325 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 1300 files added (on-disk size: 2953.4 KB)
+0050.409 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.6 MB, 95 (1368) files added so far); re-opening (prior size: 2953.4 KB)
+0051.393 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 1400 files added (on-disk size: 5280.5 KB)
+0053.336 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 1500 files added (on-disk size: 5280.5 KB)
+0053.376 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.4 MB, 133 (1501) files added so far); re-opening (prior size: 5280.5 KB)
+0056.339 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.5 MB, 92 (1593) files added so far); re-opening (prior size: 7508.3 KB)
+0057.009 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 1600 files added (on-disk size: 7939.3 KB)
+0059.106 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 1700 files added (on-disk size: 7939.3 KB)
+0059.413 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.2 MB, 115 (1708) files added so far); re-opening (prior size: 7939.3 KB)
+0062.495 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.6 MB, 69 (1777) files added so far); re-opening (prior size: 8779.9 KB)
+0063.917 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 1800 files added (on-disk size: 9134.1 KB)
+0065.348 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.5 MB, 60 (1837) files added so far); re-opening (prior size: 9134.1 KB)
+0066.172 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 1900 files added (on-disk size: 9568.1 KB)
+0068.348 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 150 (1987) files added so far); re-opening (prior size: 9568.1 KB)
+0068.961 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 2000 files added (on-disk size: 9988.4 KB)
+0069.926 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 2100 files added (on-disk size: 9988.4 KB)
+0069.968 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 2200 files added (on-disk size: 9988.4 KB)
+0071.342 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (11.6 MB, 302 (2289) files added so far); re-opening (prior size: 9988.4 KB)
+0072.833 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 2300 files added (on-disk size: 13936.4 KB)
+0074.493 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 2400 files added (on-disk size: 13936.4 KB)
+0075.350 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 140 (2429) files added so far); re-opening (prior size: 13936.4 KB)
+0077.530 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 2500 files added (on-disk size: 14210.2 KB)
+0078.326 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 2600 files added (on-disk size: 14210.2 KB)
+0078.520 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 2700 files added (on-disk size: 14210.2 KB)
+0078.810 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 2800 files added (on-disk size: 14210.2 KB)
+0079.116 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 2900 files added (on-disk size: 14210.2 KB)
+0079.166 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (0.9 MB, 5162 files batched, 501 (2930) added so far); re-opening (prior size: 14210.2 KB)
+0080.049 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 3000 files added (on-disk size: 14956.2 KB)
+0081.830 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 3100 files added (on-disk size: 14956.2 KB)
+0082.381 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.5 MB, 215 (3145) files added so far); re-opening (prior size: 14956.2 KB)
+0085.003 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 3200 files added (on-disk size: 18065.7 KB)
+0085.346 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3 MB, 84 (3229) files added so far); re-opening (prior size: 18065.7 KB)
+0087.877 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 3300 files added (on-disk size: 19967.7 KB)
+0088.197 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 3400 files added (on-disk size: 19967.7 KB)
+0088.238 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 3500 files added (on-disk size: 19967.7 KB)
+0088.279 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 3600 files added (on-disk size: 19967.7 KB)
+0088.320 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 3700 files added (on-disk size: 19967.7 KB)
+0088.333 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (19.7 MB, 5162 files batched, 501 (3730) added so far); re-opening (prior size: 19967.7 KB)
+0090.152 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 3800 files added (on-disk size: 25812.6 KB)
+0090.195 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 3900 files added (on-disk size: 25812.6 KB)
+0090.237 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 4000 files added (on-disk size: 25812.6 KB)
+0090.286 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 4100 files added (on-disk size: 25812.6 KB)
+0090.331 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 4200 files added (on-disk size: 25812.6 KB)
+0090.345 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.8 MB, 5162 files batched, 501 (4231) added so far); re-opening (prior size: 25812.6 KB)
+0091.053 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 4300 files added (on-disk size: 26531 KB)
+0091.102 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 4400 files added (on-disk size: 26531 KB)
+0091.152 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 4500 files added (on-disk size: 26531 KB)
+0091.202 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 4600 files added (on-disk size: 26531 KB)
+0091.850 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 4700 files added (on-disk size: 26531 KB)
+0092.783 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.7 MB, 5162 files batched, 501 (4732) added so far); re-opening (prior size: 26531 KB)
+0095.243 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 4800 files added (on-disk size: 27467.9 KB)
+0095.294 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 4900 files added (on-disk size: 27467.9 KB)
+0095.336 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 5000 files added (on-disk size: 27467.9 KB)
+0095.380 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip.tmp: 5100 files added (on-disk size: 27467.9 KB)
+0097.466 (0) Created plugins zip (0) - 32295.2 KB in 97.3 s (331.8 KB/s) (sha1: ff8358a8c17f4b0a6c8416901b63ad5551305fae, sha256: b13778086e7b2b220cdccc4ce67484bca350d1fd2f6b2ce47ce2283c61a61b48)
+0097.477 (0) Beginning creation of dump of themes (split every: 400 MB)
+0097.727 (0) Total entities for the zip file: 95 directories, 513 files (0 skipped as non-modified), 9.4 MB
+0098.779 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0100.084 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0100.341 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.8 MB, 224 (224) files added so far); re-opening (prior size: 0 KB)
+0102.596 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-themes.zip.tmp: 300 files added (on-disk size: 2649.9 KB)
+0103.356 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 MB, 135 (359) files added so far); re-opening (prior size: 2649.9 KB)
+0104.425 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-themes.zip.tmp: 400 files added (on-disk size: 3167.6 KB)
+0106.342 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.1 MB, 108 (467) files added so far); re-opening (prior size: 3167.6 KB)
+0107.611 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-themes.zip.tmp: 500 files added (on-disk size: 4823.7 KB)
+0108.094 (0) Created themes zip (0) - 5429.2 KB in 10.6 s (511.8 KB/s) (sha1: 7418b2ec9d70644062726e8344653d14e504270d, sha256: afee6bdf0c5d1e65616cbdef38d1eb47ab0792c95b6d5d38d1a1204bab8df8e0)
+0108.103 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0108.104 (0) Looking for candidates to backup in: C:\wamp64\www\MiClassicPress/wp-content/uploads
+0108.106 (0) finding files: 2019: adding to list (1)
+0108.107 (0) finding files: avatars: adding to list (2)
+0108.108 (0) finding files: buddypress: adding to list (3)
+0108.109 (0) finding files: elementor: adding to list (4)
+0108.110 (0) finding files: rtMedia: adding to list (5)
+0108.111 (0) finding files: ultimatemember: adding to list (6)
+0108.112 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0108.196 (0) Total entities for the zip file: 32 directories, 116 files (0 skipped as non-modified), 1.6 MB
+0108.325 (0) Zip: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0108.433 (0) Created uploads zip (0) - 1687 KB in 0.3 s (5378.6 KB/s) (sha1: 31719dad13a8d03894827e8f62c15c1bd919404f, sha256: a9d237de3989320b18834b2b056fb03e088a255d30aac07f8bcad4c33997e086)
+0108.444 (0) Beginning backup of other directories found in the content directory (index: 0)
+0108.445 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0108.446 (0) Looking for candidates to backup in: C:\wamp64\www\MiClassicPress/wp-content
+0108.447 (0) finding files: index.php: adding to list (1)
+0108.449 (0) finding files: languages: adding to list (2)
+0108.450 (0) finding files: plugins: skipping: this is the plugins directory
+0108.451 (0) finding files: themes: skipping: this is the themes directory
+0108.452 (0) finding files: updraft: skipping: this is the updraft directory
+0108.453 (0) finding files: upgrade: skipping: excluded by options
+0108.454 (0) finding files: uploads: skipping: this is the uploads directory
+0108.731 (0) Total entities for the zip file: 3 directories, 34 files (0 skipped as non-modified), 4 MB
+0109.412 (0) Created others zip (0) - 1119.6 KB in 0.9 s (1203.5 KB/s) (sha1: 5aac818088a37073bd4ee670b8c96dbc0fdaee13, sha256: c10d85a3de1f5735cf270684ac9ebd520da0889d76b83cc0689f02d6a5751363)
+0109.425 (0) Saving backup status to database (elements: 8)
+0109.428 (0) Beginning creation of database dump (WordPress DB)
+0110.189 (0) Table cp_options: Total expected rows (approximate): 441
+0110.263 (0) Table cp_options: Total rows added: 437 in 0.07 seconds
+0110.273 (0) Table cp_options: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_options.table.gz - 157.6 KB)
+0110.281 (0) Table cp_users: Total expected rows (approximate): 31
+0110.286 (0) Table cp_users: Total rows added: 31 in 0.00 seconds
+0110.291 (0) Table cp_users: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_users.table.gz - 2.3 KB)
+0110.300 (0) Table cp_usermeta: Total expected rows (approximate): 665
+0110.316 (0) Table cp_usermeta: Total rows added: 665 in 0.01 seconds
+0110.323 (0) Table cp_usermeta: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_usermeta.table.gz - 6.4 KB)
+0110.331 (0) Table cp_commentmeta: Total expected rows (approximate): 2
+0110.334 (0) Table cp_commentmeta: Total rows added: 2 in 0.00 seconds
+0110.339 (0) Table cp_commentmeta: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_commentmeta.table.gz - 0.4 KB)
+0110.349 (0) Table cp_comments: Total expected rows (approximate): 4
+0110.352 (0) Table cp_comments: Total rows added: 4 in 0.00 seconds
+0110.357 (0) Table cp_comments: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_comments.table.gz - 1 KB)
+0110.505 (0) Table cp_links: Total expected rows (approximate): 0
+0110.509 (0) Table cp_links: Total rows added: 0 in 0.00 seconds
+0110.514 (0) Table cp_links: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_links.table.gz - 0.4 KB)
+0110.524 (0) Table cp_postmeta: Total expected rows (approximate): 1179
+0110.562 (0) Table cp_postmeta: Total rows added: 1179 in 0.04 seconds
+0110.575 (0) Table cp_postmeta: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_postmeta.table.gz - 28.4 KB)
+0110.584 (0) Table cp_posts: Total expected rows (approximate): 548
+0110.742 (0) Table cp_posts: Total rows added: 548 in 0.16 seconds
+0110.775 (0) Table cp_posts: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_posts.table.gz - 154.5 KB)
+0110.785 (0) Table cp_signups: Total expected rows (approximate): 6
+0110.788 (0) Table cp_signups: Total rows added: 6 in 0.00 seconds
+0110.795 (0) Table cp_signups: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_signups.table.gz - 1.4 KB)
+0110.805 (0) Table cp_term_relationships: Total expected rows (approximate): 28
+0110.808 (0) Table cp_term_relationships: Total rows added: 28 in 0.00 seconds
+0110.815 (0) Table cp_term_relationships: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_term_relationships.table.gz - 0.5 KB)
+0110.825 (0) Table cp_term_taxonomy: Total expected rows (approximate): 20
+0110.830 (0) Table cp_term_taxonomy: Total rows added: 20 in 0.00 seconds
+0110.836 (0) Table cp_term_taxonomy: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_term_taxonomy.table.gz - 1 KB)
+0110.846 (0) Table cp_termmeta: Total expected rows (approximate): 0
+0110.849 (0) Table cp_termmeta: Total rows added: 0 in 0.00 seconds
+0110.855 (0) Table cp_termmeta: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_termmeta.table.gz - 0.4 KB)
+0110.865 (0) Table cp_terms: Total expected rows (approximate): 20
+0110.868 (0) Table cp_terms: Total rows added: 20 in 0.00 seconds
+0110.875 (0) Table cp_terms: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_terms.table.gz - 0.7 KB)
+0110.884 (0) Table cp_bp_activity: Total expected rows (approximate): 618
+0110.929 (0) Table cp_bp_activity: Total rows added: 618 in 0.04 seconds
+0110.936 (0) Table cp_bp_activity: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bp_activity.table.gz - 18.8 KB)
+0110.948 (0) Table cp_bp_activity_meta: Total expected rows (approximate): 22
+0110.951 (0) Table cp_bp_activity_meta: Total rows added: 22 in 0.00 seconds
+0110.957 (0) Table cp_bp_activity_meta: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bp_activity_meta.table.gz - 2.4 KB)
+0110.967 (0) Table cp_bp_friends: Total expected rows (approximate): 93
+0110.972 (0) Table cp_bp_friends: Total rows added: 93 in 0.00 seconds
+0110.978 (0) Table cp_bp_friends: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bp_friends.table.gz - 1.5 KB)
+0110.988 (0) Table cp_bp_groups: Total expected rows (approximate): 45
+0110.993 (0) Table cp_bp_groups: Total rows added: 45 in 0.00 seconds
+0110.999 (0) Table cp_bp_groups: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bp_groups.table.gz - 5.4 KB)
+0111.009 (0) Table cp_bp_groups_groupmeta: Total expected rows (approximate): 91
+0111.014 (0) Table cp_bp_groups_groupmeta: Total rows added: 91 in 0.00 seconds
+0111.033 (0) Table cp_bp_groups_groupmeta: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bp_groups_groupmeta.table.gz - 1.1 KB)
+0111.043 (0) Table cp_bp_groups_members: Total expected rows (approximate): 417
+0111.065 (0) Table cp_bp_groups_members: Total rows added: 417 in 0.02 seconds
+0111.127 (0) Table cp_bp_groups_members: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bp_groups_members.table.gz - 3.1 KB)
+0111.138 (0) Table cp_bp_messages_messages: Total expected rows (approximate): 103
+0111.150 (0) Table cp_bp_messages_messages: Total rows added: 103 in 0.01 seconds
+0111.158 (0) Table cp_bp_messages_messages: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bp_messages_messages.table.gz - 4.7 KB)
+0111.176 (0) Table cp_bp_messages_meta: Total expected rows (approximate): 2
+0111.182 (0) Table cp_bp_messages_meta: Total rows added: 2 in 0.00 seconds
+0111.187 (0) Table cp_bp_messages_meta: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bp_messages_meta.table.gz - 0.4 KB)
+0111.197 (0) Table cp_bp_messages_notices: Total expected rows (approximate): 0
+0111.200 (0) Table cp_bp_messages_notices: Total rows added: 0 in 0.00 seconds
+0111.205 (0) Table cp_bp_messages_notices: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bp_messages_notices.table.gz - 0.4 KB)
+0111.215 (0) Table cp_bp_messages_recipients: Total expected rows (approximate): 301
+0111.224 (0) Table cp_bp_messages_recipients: Total rows added: 301 in 0.01 seconds
+0111.230 (0) Table cp_bp_messages_recipients: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bp_messages_recipients.table.gz - 2 KB)
+0111.240 (0) Table cp_bp_notifications: Total expected rows (approximate): 294
+0111.255 (0) Table cp_bp_notifications: Total rows added: 294 in 0.01 seconds
+0111.287 (0) Table cp_bp_notifications: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bp_notifications.table.gz - 3.2 KB)
+0111.299 (0) Table cp_bp_notifications_meta: Total expected rows (approximate): 0
+0111.302 (0) Table cp_bp_notifications_meta: Total rows added: 0 in 0.00 seconds
+0111.307 (0) Table cp_bp_notifications_meta: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bp_notifications_meta.table.gz - 0.4 KB)
+0111.319 (0) Table cp_bp_xprofile_data: Total expected rows (approximate): 289
+0111.329 (0) Table cp_bp_xprofile_data: Total rows added: 289 in 0.01 seconds
+0111.337 (0) Table cp_bp_xprofile_data: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bp_xprofile_data.table.gz - 4.5 KB)
+0111.346 (0) Table cp_bp_xprofile_fields: Total expected rows (approximate): 15
+0111.349 (0) Table cp_bp_xprofile_fields: Total rows added: 15 in 0.00 seconds
+0111.356 (0) Table cp_bp_xprofile_fields: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bp_xprofile_fields.table.gz - 0.9 KB)
+0111.366 (0) Table cp_bp_xprofile_groups: Total expected rows (approximate): 2
+0111.369 (0) Table cp_bp_xprofile_groups: Total rows added: 2 in 0.00 seconds
+0111.376 (0) Table cp_bp_xprofile_groups: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bp_xprofile_groups.table.gz - 0.4 KB)
+0111.386 (0) Table cp_bp_xprofile_meta: Total expected rows (approximate): 62
+0111.390 (0) Table cp_bp_xprofile_meta: Total rows added: 62 in 0.00 seconds
+0111.396 (0) Table cp_bp_xprofile_meta: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bp_xprofile_meta.table.gz - 0.9 KB)
+0111.406 (0) Table cp_bpic_conversations: Total expected rows (approximate): 0
+0111.408 (0) Table cp_bpic_conversations: Total rows added: 0 in 0.00 seconds
+0111.413 (0) Table cp_bpic_conversations: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bpic_conversations.table.gz - 0.3 KB)
+0111.423 (0) Table cp_bpic_messages: Total expected rows (approximate): 0
+0111.426 (0) Table cp_bpic_messages: Total rows added: 0 in 0.00 seconds
+0111.431 (0) Table cp_bpic_messages: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bpic_messages.table.gz - 0.4 KB)
+0111.441 (0) Table cp_rt_rtm_activity: Total expected rows (approximate): 33
+0111.444 (0) Table cp_rt_rtm_activity: Total rows added: 33 in 0.00 seconds
+0111.452 (0) Table cp_rt_rtm_activity: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_rt_rtm_activity.table.gz - 0.5 KB)
+0111.467 (0) Table cp_rt_rtm_api: Total expected rows (approximate): 0
+0111.470 (0) Table cp_rt_rtm_api: Total rows added: 0 in 0.00 seconds
+0111.477 (0) Table cp_rt_rtm_api: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_rt_rtm_api.table.gz - 0.3 KB)
+0111.486 (0) Table cp_rt_rtm_media: Total expected rows (approximate): 16
+0111.490 (0) Table cp_rt_rtm_media: Total rows added: 16 in 0.00 seconds
+0111.497 (0) Table cp_rt_rtm_media: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_rt_rtm_media.table.gz - 1 KB)
+0111.506 (0) Table cp_rt_rtm_media_interaction: Total expected rows (approximate): 13
+0111.509 (0) Table cp_rt_rtm_media_interaction: Total rows added: 13 in 0.00 seconds
+0111.515 (0) Table cp_rt_rtm_media_interaction: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_rt_rtm_media_interaction.table.gz - 0.5 KB)
+0111.524 (0) Table cp_rt_rtm_media_meta: Total expected rows (approximate): 10
+0111.527 (0) Table cp_rt_rtm_media_meta: Total rows added: 10 in 0.00 seconds
+0111.533 (0) Table cp_rt_rtm_media_meta: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_rt_rtm_media_meta.table.gz - 0.5 KB)
+0111.542 (0) Table cp_smush_dir_images: Total expected rows (approximate): 0
+0111.545 (0) Table cp_smush_dir_images: Total rows added: 0 in 0.00 seconds
+0111.551 (0) Table cp_smush_dir_images: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_smush_dir_images.table.gz - 0.4 KB)
+0111.565 (0) Table cp_tm_taskmeta: Total expected rows (approximate): 0
+0111.568 (0) Table cp_tm_taskmeta: Total rows added: 0 in 0.00 seconds
+0111.573 (0) Table cp_tm_taskmeta: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_tm_taskmeta.table.gz - 0.4 KB)
+0111.583 (0) Table cp_tm_tasks: Total expected rows (approximate): 0
+0111.586 (0) Table cp_tm_tasks: Total rows added: 0 in 0.00 seconds
+0111.593 (0) Table cp_tm_tasks: finishing file (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_tm_tasks.table.gz - 0.4 KB)
+0111.601 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_options.table.gz (1/39): adding to final database dump
+0111.643 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_users.table.gz (2/39): adding to final database dump
+0111.646 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_usermeta.table.gz (3/39): adding to final database dump
+0111.656 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_commentmeta.table.gz (4/39): adding to final database dump
+0111.659 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_comments.table.gz (5/39): adding to final database dump
+0111.661 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_links.table.gz (6/39): adding to final database dump
+0111.662 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_postmeta.table.gz (7/39): adding to final database dump
+0111.675 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_posts.table.gz (8/39): adding to final database dump
+0111.731 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_signups.table.gz (9/39): adding to final database dump
+0111.733 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_term_relationships.table.gz (10/39): adding to final database dump
+0111.734 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_term_taxonomy.table.gz (11/39): adding to final database dump
+0111.736 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_termmeta.table.gz (12/39): adding to final database dump
+0111.737 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_terms.table.gz (13/39): adding to final database dump
+0111.739 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bp_activity.table.gz (14/39): adding to final database dump
+0111.746 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bp_activity_meta.table.gz (15/39): adding to final database dump
+0111.748 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bp_friends.table.gz (16/39): adding to final database dump
+0111.750 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bp_groups.table.gz (17/39): adding to final database dump
+0111.752 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bp_groups_groupmeta.table.gz (18/39): adding to final database dump
+0111.754 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bp_groups_members.table.gz (19/39): adding to final database dump
+0111.758 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bp_messages_messages.table.gz (20/39): adding to final database dump
+0111.761 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bp_messages_meta.table.gz (21/39): adding to final database dump
+0111.762 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bp_messages_notices.table.gz (22/39): adding to final database dump
+0111.764 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bp_messages_recipients.table.gz (23/39): adding to final database dump
+0111.766 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bp_notifications.table.gz (24/39): adding to final database dump
+0111.770 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bp_notifications_meta.table.gz (25/39): adding to final database dump
+0111.772 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bp_xprofile_data.table.gz (26/39): adding to final database dump
+0111.775 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bp_xprofile_fields.table.gz (27/39): adding to final database dump
+0111.777 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bp_xprofile_groups.table.gz (28/39): adding to final database dump
+0111.778 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bp_xprofile_meta.table.gz (29/39): adding to final database dump
+0111.780 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bpic_conversations.table.gz (30/39): adding to final database dump
+0111.781 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_bpic_messages.table.gz (31/39): adding to final database dump
+0111.782 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_rt_rtm_activity.table.gz (32/39): adding to final database dump
+0111.784 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_rt_rtm_api.table.gz (33/39): adding to final database dump
+0111.785 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_rt_rtm_media.table.gz (34/39): adding to final database dump
+0111.787 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_rt_rtm_media_interaction.table.gz (35/39): adding to final database dump
+0111.788 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_rt_rtm_media_meta.table.gz (36/39): adding to final database dump
+0111.790 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_smush_dir_images.table.gz (37/39): adding to final database dump
+0111.791 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_tm_taskmeta.table.gz (38/39): adding to final database dump
+0111.792 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db-table-cp_tm_tasks.table.gz (39/39): adding to final database dump
+0111.801 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db.gz: finished writing out complete database file (368 KB)
+0111.822 (0) Total database tables backed up: 39 (backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db.gz, size: 409450, sha256)
+0111.829 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0111.830 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0111.831 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0111.832 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-others.zip: others: This file has not yet been successfully uploaded: will queue
+0111.834 (0) backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db.gz: db: This file has not yet been successfully uploaded: will queue
+0111.835 (0) Saving backup history. Total backup size: 40 MB
+0111.838 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0111.842 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0111.844 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-93d9bef7273bc12f7cda969d81c85057)
+0112.479 (0) Google Drive: creating path: /UpdraftPlus
+0113.694 (0) Google Drive: quota usage: used=0 MB, total=15360 MB, available=15360 MB
+0113.696 (0) Google Drive: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip: Attempting to upload to Google Drive (into folder id: 1FTofbD7rKwQU-SPQ2gDwgZNkyLiMmKeP)
+0115.706 (0) Googledrive chunked upload: 3.2 % uploaded (1048576)
+0117.397 (0) Googledrive chunked upload: 6.3 % uploaded (2097152)
+0119.404 (0) Googledrive chunked upload: 9.5 % uploaded (3145728)
+0120.682 (0) Googledrive chunked upload: 12.7 % uploaded (4194304)
+0121.974 (0) Googledrive chunked upload: 15.9 % uploaded (5242880)
+0123.705 (0) Googledrive chunked upload: 19 % uploaded (6291456)
+0124.998 (0) Googledrive chunked upload: 22.2 % uploaded (7340032)
+0126.688 (0) Googledrive chunked upload: 25.4 % uploaded (8388608)
+0128.376 (0) Googledrive chunked upload: 28.5 % uploaded (9437184)
+0129.642 (0) Googledrive chunked upload: 31.7 % uploaded (10485760)
+0131.290 (0) Googledrive chunked upload: 34.9 % uploaded (11534336)
+0133.257 (0) Googledrive chunked upload: 38 % uploaded (12582912)
+0135.203 (0) Googledrive chunked upload: 41.2 % uploaded (13631488)
+0136.978 (0) Googledrive chunked upload: 44.4 % uploaded (14680064)
+0138.607 (0) Googledrive chunked upload: 47.6 % uploaded (15728640)
+0140.362 (0) Googledrive chunked upload: 50.7 % uploaded (16777216)
+0142.065 (0) Googledrive chunked upload: 53.9 % uploaded (17825792)
+0143.821 (0) Googledrive chunked upload: 57.1 % uploaded (18874368)
+0146.287 (0) Googledrive chunked upload: 60.2 % uploaded (19922944)
+0147.572 (0) Googledrive chunked upload: 63.4 % uploaded (20971520)
+0148.837 (0) Googledrive chunked upload: 66.6 % uploaded (22020096)
+0150.091 (0) Googledrive chunked upload: 69.8 % uploaded (23068672)
+0151.380 (0) Googledrive chunked upload: 72.9 % uploaded (24117248)
+0153.004 (0) Googledrive chunked upload: 76.1 % uploaded (25165824)
+0155.896 (0) Googledrive chunked upload: 79.3 % uploaded (26214400)
+0157.243 (0) Googledrive chunked upload: 82.4 % uploaded (27262976)
+0158.410 (0) Googledrive chunked upload: 85.6 % uploaded (28311552)
+0160.112 (0) Googledrive chunked upload: 88.8 % uploaded (29360128)
+0161.785 (0) Googledrive chunked upload: 92 % uploaded (30408704)
+0163.524 (0) Googledrive chunked upload: 95.1 % uploaded (31457280)
+0165.127 (0) Googledrive chunked upload: 98.3 % uploaded (32505856)
+0166.789 (0) Googledrive chunked upload: 100 % uploaded (32505856)
+0166.793 (0) Google Drive: OK: Archive backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip uploaded in 53.1 seconds
+0166.794 (0) Recording as successfully uploaded: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip
+0166.803 (0) Deleting local file: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-plugins.zip: OK
+0167.154 (0) Google Drive: quota usage: used=31.5 MB, total=15360 MB, available=15328.5 MB
+0167.155 (0) Google Drive: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-themes.zip: Attempting to upload to Google Drive (into folder id: 1FTofbD7rKwQU-SPQ2gDwgZNkyLiMmKeP)
+0168.746 (0) Googledrive chunked upload: 18.9 % uploaded (1048576)
+0170.817 (0) Googledrive chunked upload: 37.7 % uploaded (2097152)
+0172.456 (0) Googledrive chunked upload: 56.6 % uploaded (3145728)
+0174.053 (0) Googledrive chunked upload: 75.4 % uploaded (4194304)
+0175.670 (0) Googledrive chunked upload: 94.3 % uploaded (5242880)
+0177.183 (0) Googledrive chunked upload: 100 % uploaded (5242880)
+0177.188 (0) Google Drive: OK: Archive backup_2019-07-09-1625_My_Home_Network_98e442528c7c-themes.zip uploaded in 10.03 seconds
+0177.189 (0) Recording as successfully uploaded: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-themes.zip
+0177.192 (0) Deleting local file: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-themes.zip: OK
+0177.504 (0) Google Drive: quota usage: used=36.8 MB, total=15360 MB, available=15323.2 MB
+0177.505 (0) Google Drive: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-uploads.zip: Attempting to upload to Google Drive (into folder id: 1FTofbD7rKwQU-SPQ2gDwgZNkyLiMmKeP)
+0179.922 (0) Googledrive chunked upload: 60.7 % uploaded (1048576)
+0182.024 (0) Googledrive chunked upload: 100 % uploaded (1048576)
+0182.029 (0) Google Drive: OK: Archive backup_2019-07-09-1625_My_Home_Network_98e442528c7c-uploads.zip uploaded in 4.52 seconds
+0182.030 (0) Recording as successfully uploaded: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-uploads.zip
+0182.034 (0) Deleting local file: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-uploads.zip: OK
+0182.391 (0) Google Drive: quota usage: used=38.5 MB, total=15360 MB, available=15321.5 MB
+0182.393 (0) Google Drive: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-others.zip: Attempting to upload to Google Drive (into folder id: 1FTofbD7rKwQU-SPQ2gDwgZNkyLiMmKeP)
+0184.714 (0) Googledrive chunked upload: 91.5 % uploaded (1048576)
+0185.987 (0) Googledrive chunked upload: 100 % uploaded (1048576)
+0185.992 (0) Google Drive: OK: Archive backup_2019-07-09-1625_My_Home_Network_98e442528c7c-others.zip uploaded in 3.6 seconds
+0185.993 (0) Recording as successfully uploaded: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-others.zip
+0185.997 (0) Deleting local file: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-others.zip: OK
+0186.314 (0) Google Drive: quota usage: used=39.6 MB, total=15360 MB, available=15320.4 MB
+0186.316 (0) Google Drive: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db.gz: Attempting to upload to Google Drive (into folder id: 1FTofbD7rKwQU-SPQ2gDwgZNkyLiMmKeP)
+0188.399 (0) Googledrive chunked upload: 100 % uploaded
+0188.404 (0) Google Drive: OK: Archive backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db.gz uploaded in 2.09 seconds
+0188.405 (0) Recording as successfully uploaded: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db.gz
+0188.409 (0) Deleting local file: backup_2019-07-09-1625_My_Home_Network_98e442528c7c-db.gz: OK
+0188.413 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0188.414 (0) Number of backup sets in history: 1; groups (db): 1
+0188.416 (0) Examining (for databases) backup set with group_id=0, nonce=98e442528c7c, datestamp=1562689527 (Jul 09 2019 16:25:27)
+0188.417 (0) This backup set is the backup set just made, so will not be deleted.
+0188.417 (0) Number of backup sets in history: 1; groups (files): 1
+0188.418 (0) Examining (for files) backup set with nonce=98e442528c7c, datestamp=1562689527 (Jul 09 2019 16:25:27)
+0188.418 (0) This backup set is the backup set just made, so will not be deleted.
+0188.419 (0) This backup set is the backup set just made, so will not be deleted.
+0188.420 (0) This backup set is the backup set just made, so will not be deleted.
+0188.420 (0) This backup set is the backup set just made, so will not be deleted.
+0188.420 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0188.422 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0188.426 (0) Resume backup (98e442528c7c, 0): finish run
+0188.462 (0) Decremented the semaphore (fd) by 1
+0188.464 (0) Semaphore (fd) unlocked
+0188.465 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0188.469 (0) The backup apparently succeeded and is now complete
+0188.473 (0) Fetching RSS news feed
+0188.640 (0) Fetched RSS news feed; result is a: SimplePie
+0188.688 (0) Sending email ('Ficheros y base de datos (Respaldo completo)') report (attachments: 0, size: 0 KB) to: adria...
+0189.913 (0) El respaldo parece haber tenido éxito y ahora está completado

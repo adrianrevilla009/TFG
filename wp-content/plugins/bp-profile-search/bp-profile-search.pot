@@ -1,0 +1,685 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BP Profile Search\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-05 14:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-4.9.10"
+
+#: bps-form.php:86
+#, php-format
+msgctxt "%1$s error: El formulario ID \"%2$d\" esta vacio o no existe."
+msgid "%1$s error: Form ID \"%2$d\" is empty or nonexistent."
+msgstr ""
+
+#: bps-form.php:85
+#, php-format
+msgctxt "%1$s error: Plantilla\"%2$s\" no encontrada."
+msgid "%1$s error: Template \"%2$s\" not found."
+msgstr ""
+
+#. %1$s field name, %2$s value
+#: templates/members/bps-field-value.php:17
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: bps-start.php:267
+#, php-format
+msgid "%s form moved to the Trash."
+msgid_plural "%s forms moved to the Trash."
+msgstr[0] ""
+msgstr[1] ""
+
+#: bps-start.php:266
+#, php-format
+msgid "%s form permanently deleted."
+msgid_plural "%s forms permanently deleted."
+msgstr[0] ""
+msgstr[1] ""
+
+#: bps-start.php:268
+#, php-format
+msgid "%s form restored from the Trash."
+msgid_plural "%s forms restored from the Trash."
+msgstr[0] ""
+msgstr[1] ""
+
+#: bps-help.php:16
+#, php-format
+msgid "(*) Replace %s with the actual ID of your form."
+msgstr ""
+
+#: bps-admin.php:175
+msgid "<h4>Advanced Search</h4>"
+msgstr ""
+
+#: bps-help.php:53
+msgid "A custom Members Directory page"
+msgstr ""
+
+#: bps-widget.php:13
+msgid "A Profile Search form."
+msgstr ""
+
+#: bps-admin.php:60
+msgid "Add Field"
+msgstr ""
+
+#: bps-start.php:108
+msgid "Add New"
+msgstr ""
+
+#: bps-start.php:109
+msgid "Add New Form"
+msgstr ""
+
+#: bps-admin.php:117 bps-help.php:11 bps-help.php:57 bps-start.php:159
+msgid "Add to Directory"
+msgstr ""
+
+#: bps-help.php:9
+msgid "After you create and configure your search form, you can display it:"
+msgstr ""
+
+#: bps-fields.php:68
+msgid "age range"
+msgstr ""
+
+#: bps-fields.php:203
+msgid "AND expression not allowed here, use only OR"
+msgstr ""
+
+#. Author of the plugin
+msgid "Andrea Tarantini"
+msgstr ""
+
+#: bps-xprofile.php:251
+msgid "Any field"
+msgstr ""
+
+#: bps-xprofile.php:253
+msgid "Any profile field"
+msgstr ""
+
+#: bps-help.php:14
+#, php-format
+msgid "Anywhere in your theme, using the PHP code: %s (*)"
+msgstr ""
+
+#. Name of the plugin
+msgid "BP Profile Search"
+msgstr ""
+
+#: bps-main.php:20
+msgid "BP Profile Search requires BuddyPress."
+msgstr ""
+
+#: bps-template.php:55
+msgid "built-in template"
+msgstr ""
+
+#: bps-help.php:58
+msgid "Choose whether to add your form to the above Members Directory page."
+msgstr ""
+
+#: templates/members/bps-form-default.php:30
+msgid "Collapsible Form"
+msgstr ""
+
+#: bps-fields.php:64 bps-fields.php:87
+msgid "contains"
+msgstr ""
+
+#: bps-templates47.php:195
+#, php-format
+msgid "contains: %1$s"
+msgstr ""
+
+#: bps-help.php:70
+msgid "Create a form"
+msgstr ""
+
+#: bps-template.php:67
+#, php-format
+msgid "custom template located in: %1$s"
+msgstr ""
+
+#: bps-help.php:22
+msgid ""
+"Customize the field label and description, or leave them empty to use the "
+"default"
+msgstr ""
+
+#: bps-admin.php:25
+msgid "Description"
+msgstr ""
+
+#: bps-start.php:158
+msgid "Directory"
+msgstr ""
+
+#: bps-admin.php:104 bps-help.php:48
+msgid "Directory (Results Page)"
+msgstr ""
+
+#: bps-admin.php:185 bps-admin.php:202
+msgid "Disabled"
+msgstr ""
+
+#: bps-help.php:7
+msgid "Display a Form"
+msgstr ""
+
+#: bps-fields.php:69
+msgid "distance"
+msgstr ""
+
+#: bps-help.php:77
+msgid "Documentation"
+msgstr ""
+
+#: bps-admin.php:44 bps-start.php:314
+msgid "drag to reorder fields"
+msgstr ""
+
+#: bps-start.php:110
+msgid "Edit Form"
+msgstr ""
+
+#: bps-help.php:63
+msgid "Enable or disable the <em>persistent search</em> feature."
+msgstr ""
+
+#: bps-admin.php:184 bps-admin.php:201
+msgid "Enabled"
+msgstr ""
+
+#: bps-admin.php:23
+msgid "Field"
+msgstr ""
+
+#: bps-start.php:156
+msgid "Fields"
+msgstr ""
+
+#: bps-help.php:76
+msgid "For more information:"
+msgstr ""
+
+#: bps-start.php:155
+msgid "Form"
+msgstr ""
+
+#: bps-start.php:250
+msgid "Form created."
+msgstr ""
+
+#: bps-start.php:254
+msgid "Form draft updated."
+msgstr ""
+
+#: bps-admin.php:6 bps-help.php:18
+msgid "Form Fields"
+msgstr ""
+
+#: bps-admin.php:179
+msgid "Form Header"
+msgstr ""
+
+#: bps-admin.php:98 bps-help.php:40
+msgid "Form Method"
+msgstr ""
+
+#: bps-admin.php:7 bps-help.php:37
+msgid "Form Settings"
+msgstr ""
+
+#: bps-admin.php:8 bps-admin.php:133 bps-help.php:29
+msgid "Form Template"
+msgstr ""
+
+#: bps-start.php:245
+msgid "Form updated."
+msgstr ""
+
+#: bps-widget.php:48
+msgid "Form:"
+msgstr ""
+
+#: templates/members/bps-form-sample-1.php:74
+msgid "from"
+msgstr ""
+
+#: bps-admin.php:101
+msgid "GET"
+msgstr ""
+
+#: templates/members/bps-form-default.php:176
+#: templates/members/bps-form-legacy.php:116
+#: templates/members/bps-form-nouveau.php:120
+msgid "get current location"
+msgstr ""
+
+#: bps-help.php:45
+msgid ""
+"GET: the form data are sent as URL variables and it’s possible to bookmark "
+"the results page"
+msgstr ""
+
+#: bps-admin.php:177
+msgid "Hide/Show Form"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.dontdream.it/"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.dontdream.it/bp-profile-search/"
+msgstr ""
+
+#: bps-help.php:66
+msgid ""
+"If disabled, a search is cleared when the user hits the <em>Clear</em> "
+"button, or navigates away from the results page"
+msgstr ""
+
+#: bps-help.php:65
+msgid ""
+"If enabled, a search is cleared when the user hits the <em>Clear</em> button"
+msgstr ""
+
+#: bps-help.php:13
+#, php-format
+msgid "In a post or page, using the shortcode: %s (*)"
+msgstr ""
+
+#: bps-help.php:12
+#, php-format
+msgid "In a sidebar or widget area, using the widget %s"
+msgstr ""
+
+#: bps-help.php:11
+#, php-format
+msgid "In its Members Directory page, using the option %s"
+msgstr ""
+
+#: bps-help.php:80
+msgid "Incompatible plugins"
+msgstr ""
+
+#: bps-fields.php:65
+msgid "is"
+msgstr ""
+
+#: bps-fields.php:66 bps-fields.php:89
+msgid "is like"
+msgstr ""
+
+#: bps-templates47.php:198
+#, php-format
+msgid "is like: %1$s"
+msgstr ""
+
+#: bps-fields.php:70
+msgid "is one of"
+msgstr ""
+
+#: bps-templates47.php:203
+#, php-format
+msgid "is one of: %1$s"
+msgstr ""
+
+#: bps-fields.php:92
+msgid "is within"
+msgstr ""
+
+#: bps-templates47.php:217
+#, php-format
+msgid "is within: %1$s km of %2$s"
+msgstr ""
+
+#: bps-templates47.php:218
+#, php-format
+msgid "is within: %1$s miles of %2$s"
+msgstr ""
+
+#: bps-templates47.php:191 bps-templates47.php:192 bps-templates47.php:202
+#, php-format
+msgid "is: %1$s"
+msgstr ""
+
+#: templates/members/bps-form-default.php:23
+msgid "jQuery UI Theme"
+msgstr ""
+
+#: templates/members/bps-form-nouveau.php:18
+msgid "jQuery UI theme"
+msgstr ""
+
+#: templates/members/bps-form-default.php:173
+#: templates/members/bps-form-legacy.php:99
+#: templates/members/bps-form-nouveau.php:103
+msgid "km"
+msgstr ""
+
+#: bps-admin.php:24
+msgid "Label"
+msgstr ""
+
+#: bps-fields.php:72 bps-fields.php:95
+msgid "match all"
+msgstr ""
+
+#: bps-templates47.php:213
+#, php-format
+msgid "match all: %1$s"
+msgstr ""
+
+#: bps-fields.php:71 bps-fields.php:94
+msgid "match any"
+msgstr ""
+
+#: bps-templates47.php:208
+#, php-format
+msgid "match any: %1$s"
+msgstr ""
+
+#: bps-templates47.php:207 bps-templates47.php:212
+#, php-format
+msgid "match: %1$s"
+msgstr ""
+
+#: templates/members/bps-form-sample-1.php:84
+msgid "max"
+msgstr ""
+
+#: bps-templates47.php:186
+#, php-format
+msgid "max: %1$s"
+msgstr ""
+
+#: bps-external.php:256
+msgid "Member type"
+msgstr ""
+
+#: templates/members/bps-form-default.php:174
+#: templates/members/bps-form-legacy.php:100
+#: templates/members/bps-form-nouveau.php:104
+msgid "miles"
+msgstr ""
+
+#: templates/members/bps-form-sample-1.php:75
+msgid "min"
+msgstr ""
+
+#: bps-templates47.php:184
+#, php-format
+msgid "min: %1$s"
+msgstr ""
+
+#: bps-templates47.php:187
+#, php-format
+msgid "min: %1$s, max: %2$s"
+msgstr ""
+
+#: bps-fields.php:201
+msgid "mixed expression not allowed, use only AND or only OR"
+msgstr ""
+
+#: bps-template.php:52 bps-template.php:71
+msgid "more information..."
+msgstr ""
+
+#: bps-admin.php:120 templates/members/bps-form-default.php:33
+msgid "No"
+msgstr ""
+
+#: bps-start.php:112
+msgid "No forms found in Trash."
+msgstr ""
+
+#: bps-start.php:111
+msgid "No forms found."
+msgstr ""
+
+#: bps-template.php:140
+msgid "no jQuery UI"
+msgstr ""
+
+#: templates/members/bps-form-default.php:172
+#: templates/members/bps-form-legacy.php:98
+#: templates/members/bps-form-nouveau.php:102
+msgid "of"
+msgstr ""
+
+#: bps-template.php:70
+#, php-format
+msgid "outdated custom template located in: %1$s"
+msgstr ""
+
+#: bps-template.php:51
+msgid "outdated template, please consider switching to bps-form-default"
+msgstr ""
+
+#: bps-admin.php:9 bps-help.php:61
+msgid "Persistent Search"
+msgstr ""
+
+#: bps-admin.php:100
+msgid "POST"
+msgstr ""
+
+#: bps-help.php:44
+msgid ""
+"POST: the form data are not visible in the URL and it’s not possible to "
+"bookmark the results page"
+msgstr ""
+
+#: bps-help.php:12 bps-start.php:107 bps-widget.php:14
+msgid "Profile Search"
+msgstr ""
+
+#: bps-start.php:106
+msgid "Profile Search Form"
+msgstr ""
+
+#: bps-start.php:105
+msgid "Profile Search Forms"
+msgstr ""
+
+#: bps-fields.php:67
+msgid "range"
+msgstr ""
+
+#: bps-admin.php:53 bps-start.php:316
+msgid "Remove"
+msgstr ""
+
+#: bps-xprofile.php:254
+msgid "Search every profile field"
+msgstr ""
+
+#: bps-admin.php:26
+msgid "Search Mode"
+msgstr ""
+
+#: bps-help.php:78
+msgid "Search Modes"
+msgstr ""
+
+#. Description of the plugin
+msgid "Search your BuddyPress Members Directory."
+msgstr ""
+
+#: bps-start.php:315
+msgid "select field"
+msgstr ""
+
+#: bps-help.php:31
+msgid "Select how to display your search form."
+msgstr ""
+
+#: bps-help.php:23
+msgid ""
+"Select the field search mode from the <em>Search Mode</em> drop-down list"
+msgstr ""
+
+#: bps-help.php:33
+msgid "Select the form template"
+msgstr ""
+
+#: bps-external.php:257
+msgid "Select the member type"
+msgstr ""
+
+#: bps-help.php:49
+msgid ""
+"Select the Members Directory page to be used as your form’s results page. "
+"You can choose:"
+msgstr ""
+
+#: bps-help.php:20
+msgid "Select the profile fields to show in your search form."
+msgstr ""
+
+#: bps-help.php:41
+msgid "Select your form’s <em>method</em> attribute."
+msgstr ""
+
+#: bps-start.php:161
+msgid "Shortcode"
+msgstr ""
+
+#: bps-help.php:34
+msgid "Specify the template options, if any"
+msgstr ""
+
+#: templates/members/bps-form-default.php:175
+#: templates/members/bps-form-legacy.php:115
+#: templates/members/bps-form-nouveau.php:119
+msgid "Start typing, then select a location"
+msgstr ""
+
+#: bps-help.php:81
+msgid "Support Forum"
+msgstr ""
+
+#: bps-start.php:157
+msgid "Template"
+msgstr ""
+
+#: bps-template.php:43
+msgid "template not found"
+msgstr ""
+
+#: bps-help.php:52
+msgid "The BuddyPress Members Directory page"
+msgstr ""
+
+#: bps-help.php:68
+msgid "This selection applies to all your forms at once."
+msgstr ""
+
+#: bps-template.php:41
+msgid "this template has been retired, please switch to bps-form-default"
+msgstr ""
+
+#: bps-widget.php:44
+msgid "Title:"
+msgstr ""
+
+#: templates/members/bps-form-sample-1.php:83
+msgid "to"
+msgstr ""
+
+#: bps-help.php:72
+#, php-format
+msgid "To create a form, use the button %s."
+msgstr ""
+
+#: bps-help.php:26
+msgid "To leave a field description blank, enter a single dash (-) character"
+msgstr ""
+
+#: bps-help.php:25
+msgid "To remove a field from the form, click <em>Remove</em> on the right"
+msgstr ""
+
+#: bps-help.php:24
+msgid ""
+"To reorder the fields in the form, drag them up or down by the handle on the "
+"left"
+msgstr ""
+
+#: bps-admin.php:182
+msgid "Toggle Form"
+msgstr ""
+
+#: bps-admin.php:188
+msgid "Toggle Form Button"
+msgstr ""
+
+#: bps-help.php:79
+msgid "Troubleshooting"
+msgstr ""
+
+#: bps-start.php:178
+msgid "undefined"
+msgstr ""
+
+#: bps-start.php:188 bps-start.php:194
+msgid "unused"
+msgstr ""
+
+#: bps-external.php:250
+msgid "User taxonomies"
+msgstr ""
+
+#: bps-external.php:128
+msgid "Usermeta data"
+msgstr ""
+
+#: bps-external.php:24
+msgid "Users data"
+msgstr ""
+
+#: bps-start.php:160
+msgid "Widget"
+msgstr ""
+
+#: templates/members/bps-form-legacy.php:97
+#: templates/members/bps-form-nouveau.php:101
+msgid "Within"
+msgstr ""
+
+#: bps-admin.php:119 templates/members/bps-form-default.php:32
+msgid "Yes"
+msgstr ""
+
+#: bps-help.php:55
+#, php-format
+msgid ""
+"You can create a custom Members Directory page using the shortcode %1$s. To "
+"learn more, see the %2$s tutorial."
+msgstr ""
+
+#: bps-help.php:73
+msgid ""
+"You can then add the form fields, specify the form settings and select the "
+"form template."
+msgstr ""
+
+#: bps-widget.php:67
+msgid "You have not created any form yet."
+msgstr ""
